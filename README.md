@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [apisix-javascript-plugin-runner](https://github.com/zenozeng/apisix-javascript-plugin-runner)
 - 🌱 I’m currently maintaining 
   - [p5.js-svg](https://github.com/zenozeng/p5.js-svg) (SVG Runtime for Processing Foundation's [p5.js](https://github.com/processing/p5.js))
+    - [svgcanvas](https://github.com/zenozeng/svgcanvas) (Draw SVG using Canvas's 2D Context API)
   - [color-hash](https://github.com/zenozeng/color-hash) (A Node.js/Deno library for generating color based on the given string using HSL color space and SHA256)
 - Active during weekends (UTC+8, Asia/Shanghai)
 
